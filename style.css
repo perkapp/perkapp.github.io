@@ -810,6 +810,7 @@ input:-webkit-autofill:focus {
 }
 
 .side-icon-box {
+    margin:auto;
     margin-bottom: 30px;
     position: relative;
     padding-left: 80px;
